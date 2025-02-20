@@ -15,7 +15,7 @@ A modern, responsive healthcare dashboard built with React.js that helps patient
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/medik-dashboard.git
+git clone https://github.com/kuldeep1603/Algorithm
 cd medik-dashboard
 ```
 
